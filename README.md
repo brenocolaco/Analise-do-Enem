@@ -23,9 +23,5 @@ Os dados foram obtidos pelo site do [INEP](https://www.gov.br/inep/pt-br/acesso-
 ## Dashboard
 
 <div align='center'>
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTk5YjgyMjItZWQ1Zi00ZDhiLWJiMTEtZDhjZjlhYjMxYmU5IiwidCI6IjBhZjA3OTM5LWZjY2EtNDkyNi1hMzdiLTNkMDY4MmY2M2M2YyJ9" frameborder="0" allowFullScreen="true"></iframe>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiYTk5YjgyMjItZWQ1Zi00ZDhiLWJiMTEtZDhjZjlhYjMxYmU5IiwidCI6IjBhZjA3OTM5LWZjY2EtNDkyNi1hMzdiLTNkMDY4MmY2M2M2YyJ9" target="_blank"><img src='dashboard.png'/></a>
 </div>
-
-<h2 align='center'>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYTk5YjgyMjItZWQ1Zi00ZDhiLWJiMTEtZDhjZjlhYjMxYmU5IiwidCI6IjBhZjA3OTM5LWZjY2EtNDkyNi1hMzdiLTNkMDY4MmY2M2M2YyJ9" target="_blank">Acesso ao Dashboard</a>
-</h2>
